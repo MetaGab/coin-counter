@@ -1,6 +1,9 @@
 # coin-counter
 
 Práctica para Inteligencia Artifical - S9B
+================
+
+[Videotutorial](https://youtu.be/rPKaMHxH3tU)
 
 Correr el siguiente comando para instalar requerimientos
 
